@@ -1,4 +1,3 @@
-// Code your design here
 /*
 module counter (invalue,up,load,clk,reset,count,full);
 parameter width=4;
